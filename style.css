@@ -24,6 +24,7 @@ body {
     font-weight: var(--font-weight-base);
     color: var(--primary-color);
     background-color: var(--background-color);
+    overflow: hidden;
 }
 
 img {
