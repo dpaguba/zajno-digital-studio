@@ -2,6 +2,8 @@
 
 Welcome to the Zajno Digital Studio website project! This repository contains a modern, animated landing page inspired by the work of Zajno®, a digital studio based in Los Angeles, CA.
 
+https://github.com/user-attachments/assets/8c03b8c8-da13-4cfb-8835-5e7f96b82fde
+
 ## 🌟 Features
 
 - ✨ Sleek, minimalist design
