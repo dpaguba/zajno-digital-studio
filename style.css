@@ -4,7 +4,7 @@
     --primary-color: #1a1a1a;
     --background-color: #ebebeb;
     --overlay-background-color: #1a1a1a;
-    --font-size-base: 18px;
+    --font-size-base: 20px;
     --font-weight-base: 700;
 }
 
@@ -114,20 +114,20 @@ nav {
 .header {
     position: absolute;
     width: 100%;
-    top: -5px;
+    top: 1.5%;
     left: 0;
     clip-path: polygon(0 100%, 100% 100%, 100% 0, 0 0);
     z-index: 1;
 }
 
-.header h1 {
+/* .header h1 {
     font-size: 38.5vw;
     font-weight: lighter;
     text-align: center;
     margin: 0;
     padding: 0;
     line-height: 100%;
-}
+} */
 
 .header h1 span {
     position: relative;
